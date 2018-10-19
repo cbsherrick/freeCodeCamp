@@ -1,5 +1,5 @@
 # Knuth–Morris–Pratt Algorithm for Pattern Searching
-Pattern searching is an important problem in computer science. When we do search for a string in notepad/word file or browser or database, pattern searching algorithms are used to show the search results.
+Pattern searching is an important problem in computer science. When we do search for a string in notepad/word file, browser, or database, pattern searching algorithms are used to show the search results.
 
 **Problem :**
 Given a text _txt[0..n-1]_ and a pattern _pat[0..m-1]_, write a function _search(char pat[], char txt[])_ that prints all occurrences of _pat[]_ in _txt[]_. You may assume that _n > m_.
